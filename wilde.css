@@ -66,6 +66,32 @@ tr:nth-child(even)
 {
     background-color:lightsalmon;
 }
+.link 
+{
+    text-align: left;
+    font-size: 24px;
+    font-weight: 600;
+}
+.name:hover
+{
+        border: 1px solid;
+        border-color: inherit;
+        box-shadow: 4px 6px 8px;
+}
+.navigation{
+    width: 100%;
+    overflow: auto;
+}
+.navigation a {
+    float: left;
+    padding: 12px;
+    color:blue;
+    text-decoration: none;
+    font-size: 16px;
+}
+.book{
+    background-color:black;
+}
 
 
 
