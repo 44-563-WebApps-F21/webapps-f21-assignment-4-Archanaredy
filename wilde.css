@@ -19,6 +19,15 @@ h3.ALGERNON:hover
 {
     border-style: solid;
 }
+h3.LANE{
+    font-family: sans-serif;
+    font-size: 19px;
+    color: maroon;
+}
+h3.LANE:hover
+{
+    border-style: solid;
+}
 h3.JACK{
     font-family: sans-serif;
     font-size: 19px;
