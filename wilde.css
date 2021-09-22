@@ -17,6 +17,7 @@ h3.ALGERNON{
 }
 h3.ALGERNON:hover
 {
+    text-shadow: 3px 3px 6px brown;
     border-style: solid;
 }
 h3.LANE{
@@ -26,6 +27,7 @@ h3.LANE{
 }
 h3.LANE:hover
 {
+    text-shadow: 3px 3px 6px chocolate;
     border-style: solid;
 }
 h3.JACK{
@@ -35,6 +37,7 @@ h3.JACK{
 }
 h3.JACK:hover
 {
+    text-shadow: 3px 3px 6px ;
     border-style: solid;
 }
 table 
